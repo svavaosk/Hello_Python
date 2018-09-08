@@ -1,0 +1,1 @@
+git clone https://github.com/cooperka/emoji-commit-messages.git
